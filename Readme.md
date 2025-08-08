@@ -1,4 +1,4 @@
-# Dynamic Kannada Sign Language Recognition on Resource-Constrained Devices
+# Dynamic Kannada Sign Language Recognition on Resource-Constrained Devices (*UNDER DEVELOPMENT*)
 
 ## Project Overview
 
